@@ -57,4 +57,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Letchagan A - letchagan@example.com
 
-Project Link: (https://github.com/your-github-username/minimalistic-word-counter)
+Project Link: (https://github.com/letchagan/Simple-Word-counter)
